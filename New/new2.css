@@ -1,0 +1,233 @@
+body {
+    background-color:aqua;
+}
+header{
+    background-color:blueviolet;
+    width: 90%;
+   height: 60px;
+    margin-left: 4%;
+        text-align: center;
+    
+ }   
+    section{
+    background-color:chartreuse;
+    width: 50%;
+    height: 400px;
+    margin-left: 2%;
+    margin-right: 10%;
+    float: left;
+    margin-bottom: 20px;
+    background-
+    
+        
+}
+.ContenedorSection{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image: url(../img/4dd48fe724a0c_o.jpg);
+    background-size: 100% 100%;
+    
+    
+}
+
+.ContenedorSection1{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image: url(../img/amor-paisajes.jpg);
+    background-size: 100% 100%;
+    
+    }
+
+.ContenedorSection2{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image:url(../img/maxresdefault.jpg);
+    background-size: 100% 100%;
+    
+    }
+
+.ContenedorSection3{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image:url(../img/fiordos_noruegos_2.jpg);
+    background-size: 100% 100%;
+    
+    }
+
+.ContenedorSection4{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image:url(../img/paisajes-panama_1.jpg);
+    background-size: 100% 100%;
+    
+    }
+
+.ContenedorSection5{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image:url(../img/th.jpg);
+    background-size: 100% 100%;
+    
+    }
+
+aside{
+    background-color:crimson;
+    width: 30%;
+    height: 400px;
+    float: right;
+    margin-bottom: 20px;
+
+}
+.ContenedorAside{
+    background-color:cyan;
+    width: 80%;
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(../img/amor-paisajes.jpg);
+    background-size: 100% 100%;
+    width: 20vw;
+    height: 17vh;
+}
+
+.ContenedorAside1{
+    background-color:cyan;
+    width: 80%;
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image:url(../img/paisajes-panama_1.jpg);
+    background-size: 100% 100%;
+    width: 20vw;
+    height: 17vh;
+}
+
+.ContenedorAside2{
+    background-color:cyan;
+    width: 80%;
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image:url(../img/th.jpg);
+    background-size: 100% 100%;
+    width: 20vw;
+    height: 17vh;
+}
+
+
+footer{
+  background-color:darkblue;
+    clear: both;
+    width: 100%;
+    height: 150px;
+       
+    margin-top: 20px;
+text-align: center;
+}
+.ContenedorFooter{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image: url(../img/fiordos_noruegos_2.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}
+
+.ContenedorFooter1{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image:url(../img/4dd48fe724a0c_o.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}
+
+.ContenedorFooter2{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image:url(../img/amor-paisajes.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}
+
+.ContenedorFooter3{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image:url(../img/paisajes-panama_1.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}
+
+.ContenedorFooter4{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image:url(../img/th.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}

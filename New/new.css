@@ -1,0 +1,103 @@
+body {
+    background-color:aqua;
+    background-image:url(../img/1572424649_614672_1572453030_noticia_normal.jpg);
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+    
+}
+header{
+    background-color:blueviolet;
+    width: 90%;
+   height: 60px;
+    margin-left: 4%;
+        text-align: center;
+}
+nav{
+    background-color:blue;
+    width: 90%;
+    height: 80px;
+    margin-top: 15px;
+        margin-bottom: 15px;
+    margin-left: 4%;
+  margin-bottom:  15px;
+    text-align:center;
+}
+
+.ContenedorNav{
+   background-color: aqua;
+    width: 18%;
+    height: 50px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    
+}
+section{
+    background-color:chartreuse;
+    width: 50%;
+    height: 400px;
+    margin-left: 2%;
+    margin-right: 10%;
+    float: left;
+    margin-bottom: 20px;
+    background-
+    
+        
+}
+.ContenedorSection{
+    background-color:black;
+    width: 25%;
+    height: 90px;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    float: left;
+    background-image: url(../img/4dd48fe724a0c_o.jpg);
+    background-size: 100% 100%;
+        
+    
+}
+aside{
+    background-color:crimson;
+    width: 30%;
+    height: 400px;
+    float: right;
+    margin-bottom: 20px;
+
+}
+.ContenedorAside{
+    background-color:cyan;
+    width: 80%;
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(../img/amor-paisajes.jpg);
+    background-size: 100% 100%;
+    width: 20vw;
+    height: 17vh;
+}
+footer{
+  background-color:darkblue;
+    clear: both;
+    width: 100%;
+    height: 150px;
+       
+    margin-top: 20px;
+text-align: center;
+}
+.ContenedorFooter{
+    background-color: skyblue;
+    width: 15%;
+    height: 70px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-left: 1%;
+    background-image: url(../img/fiordos_noruegos_2.jpg);
+    background-size: 100% 100%;
+    height: 15vh;
+        
+        
+}
